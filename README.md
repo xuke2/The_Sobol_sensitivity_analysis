@@ -1,6 +1,6 @@
-# The Sobol's sensitivity analysis using Monta Carlo sampling
+# The Sobol's sensitivity analysis using Monte Carlo sampling
 
-This code gives a demonstration of the Sobol's sensitivity analysis method using Monta Carlo sampling.
+This code gives a demonstration of the Sobol's sensitivity analysis method using Monte Carlo sampling.
 
 1. The sampling method is Sobol sequence in MATLAB.
 
