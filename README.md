@@ -1,4 +1,4 @@
-# The_Sobol_sensitivity_analysis
+# The Sobol's sensitivityanalysis using Monta Carlo sampling
 
 This code gives a demonstration of the Sobol's sensitivity analysis method using Monta Carlo sampling.
 
